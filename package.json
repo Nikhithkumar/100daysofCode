@@ -1,0 +1,16 @@
+{
+  "name": "100daysofcode",
+  "version": "1.0.0",
+  "description": "100 Days of DSA Challenge\r Overview\r Welcome to the \"100 Days of DSA\" challenge! This challenge is designed to help you improve your proficiency in Data Structures and Algorithms through consistent practice. The journey spans 100 days, with each day dedicated to solving problems, implementing algorithms, and refining your coding skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
